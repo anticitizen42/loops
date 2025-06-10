@@ -1,0 +1,11 @@
+{
+  "m": 1.0,
+  "L": 10.0,
+  "N": 512,
+  "dt": 0.001,
+  "n_steps": 5000,
+  "output_every": 50,
+  "sigma": 0.5,
+  "amplitude": 1.0,
+  "output_gif": "evolution2d.gif"
+}
